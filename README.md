@@ -3,6 +3,7 @@
 ## Overview
 
 First-year university module submission for **Web Design and Development**. An online bookstore built with **HTML, CSS, PHP, and MySQL**.
+Designed to mimic the operation of a **payment gateway** in an e-commerce website. Users can browse books, view descriptions and enter credit card details to complete a purchase.
 
 ## Installation / Setup
 
