@@ -16,6 +16,8 @@ Designed to mimic the operation of a **payment gateway** in an e-commerce websit
 
 ## Notes
 
-•This project requires a local PHP/MySQL environment to run (e.g., **XAMPP**).  
-•The database credentials are currently **hardcoded** in the PHP files for simplicity, which is acceptable for this first-year module project.  
-•Future improvements could include using a **separate configuration file** or **environment variables** to store database credentials securely, following professional best practices.
+This project requires a local PHP/MySQL environment to run (e.g., **XAMPP**).  
+
+The database credentials are currently **hardcoded** in the PHP files for simplicity, which is acceptable for this first-year module project.  
+
+Future improvements could include using a **separate configuration file** or **environment variables** to store database credentials securely, following professional best practices.
